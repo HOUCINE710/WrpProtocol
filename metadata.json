@@ -1,0 +1,5 @@
+{
+  "name": "WRP Network Simulator",
+  "description": "An interactive simulation of the Wireless Routing Protocol (WRP) for Ad Hoc Networks, demonstrating proactive routing, loop avoidance, and topology dynamics.",
+  "requestFramePermissions": []
+}
